@@ -1,4 +1,4 @@
-# APS 01 - API REST com Postgres
+# API 02 - API REST com Aeroportuário
 
 Integrantes: 
 - Mateus Stangherlin

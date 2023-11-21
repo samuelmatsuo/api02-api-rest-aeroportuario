@@ -2,7 +2,7 @@
 name = "aps01-api-rest-postgres"
 version = "0.1.0"
 description = "APS final quarto periodo 2023"
-authors = ["Cezar Augusto Mezzalira <cezar.mezzalira@gmail.com>"]
+authors = ["Samuel Matsuo, Felipe Carli, Mateus Stangherlin <samuelbampimatsuo27@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
